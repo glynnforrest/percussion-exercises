@@ -103,5 +103,5 @@
   \times 2/3 {sn16^"R" sn^"L" sn^"L" } sn^"R" sn^"L" sn^"R" sn^"L"-"    etc."
 }
 \markup {
-  Improvise patterns, remebering to play accents on and after the triplets.
+  Improvise patterns, remembering to play accents on and after the triplets.
 }
