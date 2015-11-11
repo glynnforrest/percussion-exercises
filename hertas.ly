@@ -10,6 +10,19 @@
   \repeat unfold 4 { sn sn sn16 sn }
 }
 
+\drums {
+  \time 9/8
+
+  \repeat unfold 3 { sn16 sn sn8 sn sn sn sn sn sn sn }
+  \repeat unfold 3 { sn16 sn sn8 sn }
+
+  \repeat unfold 3 { sn8 sn16 sn sn8 sn sn sn sn sn sn }
+  \repeat unfold 3 { sn8 sn16 sn sn8 }
+
+  \repeat unfold 3 { sn8 sn sn16 sn sn8 sn sn sn sn sn }
+  \repeat unfold 3 { sn8 sn sn16 sn }
+}
+
 \markup {
   "Pantera"
 }
